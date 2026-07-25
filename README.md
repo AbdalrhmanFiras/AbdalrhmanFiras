@@ -3,9 +3,9 @@
   <img src="banner-schematic.svg" alt="Abd AlRhamn Firas — Laravel | Filament Developer" width="100%"/>
 </p>
 
-<!-- ===== PIXEL BATS ===== -->
+<!-- ===== PIXEL PETS ===== -->
 <p align="center">
-  <img src="bat.svg" alt="pixel bats flying" width="100%"/>
+  <img src="pets.svg" alt="pixel bats, birds and a cat" width="100%"/>
 </p>
 
 <!-- ===== CONTRIBUTION GRAPH ===== -->
