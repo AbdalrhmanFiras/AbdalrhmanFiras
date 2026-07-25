@@ -7,8 +7,3 @@
 <p align="center">
   <img src="pets.svg" alt="pixel bats, birds and a cat" width="100%"/>
 </p>
-
-<!-- ===== CONTRIBUTION GRAPH ===== -->
-<p align="center">
-  <img src="contributions.png" alt="Contribution graph" width="100%"/>
-</p>
