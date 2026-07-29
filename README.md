@@ -4,6 +4,6 @@
 </p>
 
 <!-- ===== PIXEL PETS ===== -->
-<p align="center">
-  <img src="pets.svg" alt="pixel bats, birds, cat, dino and meteors" width="100%"/>
-</p>
+//<p align="center">
+ // <img src="pets.svg" alt="pixel bats, birds, cat, dino and meteors" width="100%"/>
+//</p>
